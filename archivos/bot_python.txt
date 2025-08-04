@@ -1,0 +1,21 @@
+# bot_python.py
+
+def iniciar_bot():
+    print("¡Hola! Soy tu bot de prueba.")
+    print("Escribe 'hola', 'ayuda' o 'salir'.")
+
+    while True:
+        mensaje = input("Tú: ").lower()
+
+        if mensaje == "hola":
+            print("Bot: ¡Hola Jairo! ¿En qué puedo ayudarte?")
+        elif mensaje == "ayuda":
+            print("Bot: Puedo ayudarte con tareas simples. Prueba escribiendo 'hola'.")
+        elif mensaje == "salir":
+            print("Bot: Hasta luego 👋")
+            break
+        else:
+            print("Bot: No entiendo ese mensaje.")
+
+# Ejecutar el bot
+iniciar_bot()

@@ -1,0 +1,12 @@
+Nombre del proyecto: Personalización en WordPress
+
+Descripción:
+Este proyecto muestra mi proceso de aprendizaje en la instalación y personalización de temas en WordPress. Aprendí a utilizar el panel de administración, cambiar estilos visuales, modificar menús y agregar secciones para que las páginas sean más profesionales.
+
+Tecnologías:
+- WordPress
+- Temas y plugins
+- Personalización visual
+
+Objetivo:
+Aprender a crear sitios web más personalizados usando WordPress, enfocado en diseño, navegación y experiencia del usuario.

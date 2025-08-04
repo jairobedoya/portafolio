@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.contenedor {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.perfil {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.perfil img {
+  width: 150px;
+  border-radius: 50%;
+  border: 3px solid #0073aa;
+}
+
+.texto h1 {
+  margin: 0;
+  color: #0073aa;
+}
+
+.texto h2 {
+  margin: 0;
+  color: #444;
+}
+
+.boton {
+  display: inline-block;
+  padding: 10px 15px;
+  margin-top: 10px;
+  background-color: #0073aa;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.boton.verde {
+  background-color: #28a745;
+}
+
+section {
+  margin-top: 30px;
+}
+
+h3 {
+  color: #0073aa;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+
+.proyecto-wordpress {
+  background-color: #f0f8ff;
+  border-left: 5px solid #0073aa;
+  padding: 25px;
+  margin-top: 40px;
+  border-radius: 10px;
+}
+
+.proyecto-wordpress h3 {
+  margin-top: 0;
+}
+
+.detalles-proyecto {
+  list-style: none;
+  padding: 0;
+  margin-top: 15px;
+}
+
+.detalles-proyecto li {
+  margin-bottom: 8px;
+  font-size: 15px;
+}
